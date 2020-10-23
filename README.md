@@ -4,10 +4,8 @@ Contoh aplikasi android sederhana dengan 1 activity yang mendemonstrasikan:
 * LinearLayout dengan orientasi vertikal dan horizontal,
 * Penggunaan drawables, 
 * Akses view dari activity
-* Button click
+* Event Listener pada Button 
 
-## Cuplikan 
-
-![Cuplikan jalannya aplikasi](kucingpedia.gif)
+![Kucingpedia](kucingpedia.gif)
 
 
