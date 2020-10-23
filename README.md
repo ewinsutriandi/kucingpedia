@@ -8,6 +8,6 @@ Contoh aplikasi android sederhana dengan 1 activity yang mendemonstrasikan:
 
 ## Cuplikan 
 
-[Cuplikan jalannya aplikasi](kucingpedia.gif)
+![Cuplikan jalannya aplikasi](kucingpedia.gif)
 
 
